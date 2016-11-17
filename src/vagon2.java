@@ -1,6 +1,3 @@
-/**
- * Created by lin-k on 13.11.2016.
- */
 public class vagon2 extends vagon {
 
     public void IzmenitxChisloMest(int NovoeChisloMest) {
